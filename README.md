@@ -1,3 +1,7 @@
-# aula-git-pratica
+# SINTAXE MARCKDOWN
 
-## tentando resolver
+## Titulos
+
+**texto em negrito**
+
+`
